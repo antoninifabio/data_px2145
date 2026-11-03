@@ -1,4 +1,4 @@
-time,velocity,uncertainty
+time[days],velocity[km/s],uncertainty[km/s]
 1.6697,0.236,1.8495
 1.9201,2.7633,1.417
 2.3836,8.1018,8.242
